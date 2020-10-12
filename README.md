@@ -11,7 +11,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ## Solving steps:
 1. Kaggle Install on Google Collab
-2  Import necessary package and library
+2.  Import necessary package and library
 3. Reading Dataset
 4. Exploratory Data Analysis(EDA)
 5. Handle Missing value
